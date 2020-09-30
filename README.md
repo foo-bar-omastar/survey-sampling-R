@@ -13,7 +13,7 @@ The data set families contains information about 43,886 families living in the c
 2. Number of persons in family
 3. Number of children in family
 4. Family income
-5. Region-->
+5. Region:
   1: North
   2: East
   3: South
