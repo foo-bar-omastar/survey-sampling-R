@@ -6,7 +6,7 @@ The problem statement is taken from Chapter 7 (Survey Sampling) Question no. 67 
 
 ### Data Description 
 The data set families contains information about 43,886 families living in the city of Cyberville. The city has four regions: the Northern region has 10,149 families, the Eastern region has 10,390 families, the Southern region has 13,457 families, and theWestern region has 9,890. For each family, the following information is recorded:
-1. Family type -->
+1. Family type :
   1: Husband-wife family
   2: Male-head family
   3: Female-head family
