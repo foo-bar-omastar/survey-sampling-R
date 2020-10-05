@@ -1,4 +1,4 @@
-# Survey Sampling using R
+# Survey Sampling using R:
 
 In this project, we are going to understand various aspects of survey sampling in R. We are using R as it allows for easy random sampling and quick calculation.
 
